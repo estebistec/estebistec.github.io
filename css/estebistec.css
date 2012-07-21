@@ -1,0 +1,28 @@
+/* http://colorschemedesigner.com/#3z21TvXv-w0w0 */
+
+body {
+  width: 30%;
+  margin: 50px auto;
+  color: #FFC573;
+  background: #0C5DA5; /* Old browsers */
+}
+
+a:link,a:active,a:visited,a:hover {
+  padding: 6px;
+  border: 1px solid #A66100;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  color: #A66100;
+  background: #FFC573;
+}
+
+ol,ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+li {
+  display: inline;
+}
